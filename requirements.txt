@@ -1,0 +1,4 @@
+MarkupSafe==1.1.1
+Flask==1.1.2
+yolov5_evaluator==0.0.22
+yolov5==4.0.6
